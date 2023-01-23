@@ -1,0 +1,16 @@
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\bin\Debug\net5.0\bfrazzinproj1.exe
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\bin\Debug\net5.0\bfrazzinproj1.deps.json
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\bin\Debug\net5.0\bfrazzinproj1.runtimeconfig.json
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\bin\Debug\net5.0\bfrazzinproj1.runtimeconfig.dev.json
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\bin\Debug\net5.0\bfrazzinproj1.dll
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\bin\Debug\net5.0\ref\bfrazzinproj1.dll
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\bin\Debug\net5.0\bfrazzinproj1.pdb
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\obj\Debug\net5.0\bfrazzinproj1.csproj.AssemblyReference.cache
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\obj\Debug\net5.0\bfrazzinproj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\obj\Debug\net5.0\bfrazzinproj1.AssemblyInfoInputs.cache
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\obj\Debug\net5.0\bfrazzinproj1.AssemblyInfo.cs
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\obj\Debug\net5.0\bfrazzinproj1.csproj.CoreCompileInputs.cache
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\obj\Debug\net5.0\bfrazzinproj1.dll
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\obj\Debug\net5.0\ref\bfrazzinproj1.dll
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\obj\Debug\net5.0\bfrazzinproj1.pdb
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\obj\Debug\net5.0\bfrazzinproj1.genruntimeconfig.cache

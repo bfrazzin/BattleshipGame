@@ -1,0 +1,15 @@
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\bin\Debug\net5.0\bfrazzinBattleship.exe
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\bin\Debug\net5.0\bfrazzinBattleship.deps.json
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\bin\Debug\net5.0\bfrazzinBattleship.runtimeconfig.json
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\bin\Debug\net5.0\bfrazzinBattleship.runtimeconfig.dev.json
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\bin\Debug\net5.0\bfrazzinBattleship.dll
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\bin\Debug\net5.0\ref\bfrazzinBattleship.dll
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\bin\Debug\net5.0\bfrazzinBattleship.pdb
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\obj\Debug\net5.0\bfrazzinBattleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\obj\Debug\net5.0\bfrazzinBattleship.AssemblyInfoInputs.cache
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\obj\Debug\net5.0\bfrazzinBattleship.AssemblyInfo.cs
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\obj\Debug\net5.0\bfrazzinBattleship.csproj.CoreCompileInputs.cache
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\obj\Debug\net5.0\bfrazzinBattleship.dll
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\obj\Debug\net5.0\ref\bfrazzinBattleship.dll
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\obj\Debug\net5.0\bfrazzinBattleship.pdb
+C:\Users\Blake Frazzini\Desktop\cs3020\bfrazzinproj1\bfrazzinproj1\obj\Debug\net5.0\bfrazzinBattleship.genruntimeconfig.cache
